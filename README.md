@@ -1,2 +1,2 @@
 # Projects
-React js baased functionlitiies
+React js based functionlitiies

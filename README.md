@@ -1,2 +1,2 @@
 # Projects
-Rect baased functionlitiies
+React js baased functionlitiies
